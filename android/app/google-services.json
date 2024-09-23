@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527043072965",
+    "project_id": "image-upload-flutter-firebase7",
+    "storage_bucket": "image-upload-flutter-firebase7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527043072965:android:0a3aa3535ba4e95a23f1ac",
+        "android_client_info": {
+          "package_name": "com.example.image_upload_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIakOb_IElp_a30jMI2wW9ozSU1GOKi3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
